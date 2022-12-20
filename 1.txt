@@ -1,2 +1,3 @@
 Bdika
 Bdika cloud 
+Changes from VSC (Visual Studio Code)
